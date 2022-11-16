@@ -1,6 +1,6 @@
 import Sidebar from "../components/Sidebar";
 import Header from "../components/Header";
 
-export default function Home() {
-    return <div>Home Page</div>
+export default function Trending() {
+    return <div>Trending Page</div>
 }
